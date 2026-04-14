@@ -1,4 +1,4 @@
-    # claude-context-export
+# Claude Context Export
 
 A PowerShell script that consolidates all [Claude Code](https://claude.ai/code) persistent memory files across all your projects into a single Markdown file, ready to paste or attach to a Claude app conversation.
 
